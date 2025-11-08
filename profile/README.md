@@ -12,8 +12,8 @@ The Laboratory of Vision, Robotics and Imaging (VRI) was created in 2010 and it 
 
 ## 1. Projeto Ciência na Escola
 
-- frontend: https://github.com/VRI-UFPR/CienciaNaEscola
-- backend: https://github.com/VRI-UFPR/PICCE-API
+- Frontend: https://github.com/VRI-UFPR/CienciaNaEscola
+- Backend: https://github.com/VRI-UFPR/PICCE-API
 
 
 ## 2. Projeto Lucas
@@ -23,23 +23,40 @@ The Laboratory of Vision, Robotics and Imaging (VRI) was created in 2010 and it 
 - Detecção de Quedas: https://github.com/VRI-UFPR/lucas-deteccao-queda
 - SLAM usando ORBBEC: https://github.com/VRI-UFPR/ORBBEC-ASTRA-SLAM
 - Visão estereo: https://github.com/VRI-UFPR/VRI-stereo-vo
-- Revisão de Robôs de Serviço: https://github.com/VRI-UFPR/BRAHUR-2021
-- robo Jaguatirica: https://github.com/VRI-UFPR/jaguatirica-vri
+- Revisão de Robôs de Serviço: https://github.com/VRI-UFPR/survey-robot-home
+- Artigo BRAHUR 2021: https://github.com/VRI-UFPR/BRAHUR-2021
+- Robo Jaguatirica: https://github.com/VRI-UFPR/jaguatirica-vri
 
 
 ## 3. Base de Dados VRI4WD
 
-- base de dados: https://github.com/VRI-UFPR/ufpr-map
-- robo: https://github.com/VRI-UFPR/vri4wd
+- Base de dados: https://github.com/VRI-UFPR/ufpr-map
+- Robo: https://github.com/VRI-UFPR/vri4wd
 
 
-## 4. Outros
+## 4. German-Brazilian Newspapers (GBN)
+
+- OCR-D: https://github.com/VRI-UFPR/ocrd-gbn
+- Pesquisa: https://github.com/VRI-UFPR/GBN-Research
+- Gerador: https://github.com/VRI-UFPR/GBN-data-generator-LeseOlympiade
+- Trocr: https://github.com/VRI-UFPR/GBN-TROCR
+- Classificação: https://github.com/VRI-UFPR/GBN-Font-classification
+- Classificador: https://github.com/VRI-UFPR/GBN-Font-Classifier
+- OCR-D: https://github.com/VRI-UFPR/ocrd-iiif
+- Datasets: https://github.com/VRI-UFPR/gbn-fonts-dataset
+- Eynollah: https://github.com/VRI-UFPR/GBN-junior
+- Wrapper for XML Draw: https://github.com/VRI-UFPR/ocrd-page-xml-draw
+
+
+## 5. Outros
 
 - Intercampi: https://github.com/VRI-UFPR/intercampi
 - Logo: https://github.com/VRI-UFPR/logo
+- Gerenciador de Patrimonio: https://github.com/VRI-UFPR/gerenciador_patrimonio
+- FPGA: https://github.com/VRI-UFPR/FPGA
 
 
-## 5. Tutoriais
+## 6. Tutoriais
 
 - ROS : https://github.com/VRI-UFPR/Como-aprender-ROS2
 - Robótica : https://github.com/VRI-UFPR/Como-aprender-Robotica
