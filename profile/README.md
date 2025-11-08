@@ -16,7 +16,7 @@ The Laboratory of Vision, Robotics and Imaging (VRI) was created in 2010 and it 
 - backend: https://github.com/VRI-UFPR/PICCE-API
 
 
-### 2. Projeto Lucas
+## 2. Projeto Lucas
 
 - Framework de Robótica: https://github.com/VRI-UFPR/ufr
 - Pacotes de Código para Robos: https://github.com/VRI-UFPR/robots
