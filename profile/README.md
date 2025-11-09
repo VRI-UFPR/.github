@@ -58,8 +58,9 @@ The Laboratory of Vision, Robotics and Imaging (VRI) was created in 2010 and it 
 
 ## 6. Tutoriais
 
-- ROS : https://github.com/VRI-UFPR/Como-aprender-ROS2
-- Robótica : https://github.com/VRI-UFPR/Como-aprender-Robotica
-- Transformer : https://github.com/VRI-UFPR/Como-aprender-Transformers
+- ROS: https://github.com/VRI-UFPR/Como-aprender-ROS2
+- Robótica: https://github.com/VRI-UFPR/Como-aprender-Robotica
+- Transformer: https://github.com/VRI-UFPR/Como-aprender-Transformers
+- GIT: https://github.com/VRI-UFPR/Como-aprender-git
 
 
