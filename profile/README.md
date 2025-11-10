@@ -10,31 +10,31 @@ The Laboratory of Vision, Robotics and Imaging (VRI) was created in 2010 and it 
 - Mobile and Bioinspired Robotics
 
 
-## 1. Projeto Ciência na Escola
+## 1. Projeto Ciência na Escola - cienciaCidada
 
 - Frontend: https://github.com/VRI-UFPR/CienciaNaEscola
 - Backend: https://github.com/VRI-UFPR/PICCE-API
 
 
-## 2. Projeto Lucas
+## 2. Projeto Lucas - robotica
 
-- Framework de Robótica: https://github.com/VRI-UFPR/ufr
-- Pacotes de Código para Robos: https://github.com/VRI-UFPR/robots
+- Unificado Framework de Robótica (UFR): https://github.com/VRI-UFPR/ufr
+- Pacotes do UFR: https://github.com/VRI-UFPR/ufr-packages
 - Detecção de Quedas: https://github.com/VRI-UFPR/lucas-deteccao-queda
 - SLAM usando ORBBEC: https://github.com/VRI-UFPR/ORBBEC-ASTRA-SLAM
 - Visão estereo: https://github.com/VRI-UFPR/VRI-stereo-vo
 - Revisão de Robôs de Serviço: https://github.com/VRI-UFPR/survey-robot-home
 - Artigo BRAHUR 2021: https://github.com/VRI-UFPR/BRAHUR-2021
-- Robo Jaguatirica: https://github.com/VRI-UFPR/jaguatirica-vri
 
 
-## 3. Base de Dados VRI4WD
+## 3. Base de Dados VRI4WD - robotica
 
 - Base de dados: https://github.com/VRI-UFPR/ufpr-map
-- Robo: https://github.com/VRI-UFPR/vri4wd
+- Robo VRI4WD: https://github.com/VRI-UFPR/vri4wd
+- Gêmeo Digital: https://github.com/VRI-UFPR/dtmr
 
 
-## 4. German-Brazilian Newspapers (GBN)
+## 4. German-Brazilian Newspapers (GBN) - gbndbp
 
 - OCR-D: https://github.com/VRI-UFPR/ocrd-gbn
 - Pesquisa: https://github.com/VRI-UFPR/GBN-Research
@@ -48,19 +48,45 @@ The Laboratory of Vision, Robotics and Imaging (VRI) was created in 2010 and it 
 - Wrapper for XML Draw: https://github.com/VRI-UFPR/ocrd-page-xml-draw
 
 
-## 5. Outros
+## 5. Aplicativo para percepção de deficit cognitivo - dezmente
+
+- Aplicativo: https://github.com/VRI-UFPR/Dezmente
+- Versão Antiga: https://github.com/VRI-UFPR/dezmente-antigo
+
+
+## 6. Robôs - robotica
+
+- Robo Jaguatirica: https://github.com/VRI-UFPR/robo-jaguatirica
+- Robo Pioneer: https://github.com/VRI-UFPR/robo-pioneer
+- Robo VRI4WD: https://github.com/VRI-UFPR/vri4wd
+
+
+## 7. Data Argumentation
+
+- A Novel Data Augmentation Technique Applied to Salient Object Detection (ANDA): https://github.com/VRI-UFPR/ANDA
+- Data Augmentation for Deep Learning: https://github.com/VRI-UFPR/Awesome-Data-Augmentation
+- SalDACov - Improving Data Augmentation applied to the COVID-19 lung CT Segmentation with a novel technique based on Visual Salience: https://github.com/VRI-UFPR/SalDACov
+- DACov - A deeper analysis of Data Augmentation on the Computed Tomography Segmentation Problem: https://github.com/VRI-UFPR/DACov2022
+
+
+## 8. Outros
 
 - Intercampi: https://github.com/VRI-UFPR/intercampi
 - Logo: https://github.com/VRI-UFPR/logo
 - Gerenciador de Patrimonio: https://github.com/VRI-UFPR/gerenciador_patrimonio
 - FPGA: https://github.com/VRI-UFPR/FPGA
+- API para Drone sobre ROS: https://github.com/VRI-UFPR/RosAPIdroneAndroid
+- Official dataset for attack simulation on V2V communication: https://github.com/VRI-UFPR/V2V-communication-dataset
 
 
-## 6. Tutoriais
+## 9. Tutoriais
 
 - ROS: https://github.com/VRI-UFPR/Como-aprender-ROS2
 - Robótica: https://github.com/VRI-UFPR/Como-aprender-Robotica
-- Transformer: https://github.com/VRI-UFPR/Como-aprender-Transformers
-- GIT: https://github.com/VRI-UFPR/Como-aprender-git
+- Transformer: https://github.com/VRI-UFPR/como-aprender-transformers
+- GIT: https://github.com/VRI-UFPR/como-aprender-git
 
 
+## 10. Links Uteis
+
+- Template Latex do Maziero para teses: https://gitlab.c3sl.ufpr.br/maziero/tese
