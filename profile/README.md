@@ -59,6 +59,7 @@ The Laboratory of Vision, Robotics and Imaging (VRI) was created in 2010 and it 
 - Robo Jaguatirica: https://github.com/VRI-UFPR/robo-jaguatirica
 - Robo Pioneer: https://github.com/VRI-UFPR/robo-pioneer
 - Robo VRI4WD: https://github.com/VRI-UFPR/vri4wd
+- Robo Roomba: https://github.com/VRI-UFPR/robo-roomba
 
 
 ## 7. Data Argumentation
