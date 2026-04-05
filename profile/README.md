@@ -77,7 +77,7 @@ The Laboratory of Vision, Robotics and Imaging (VRI) was created in 2010 and it 
 - FPGA: https://github.com/VRI-UFPR/FPGA
 - API para Drone sobre ROS: https://github.com/VRI-UFPR/RosAPIdroneAndroid
 - Official dataset for attack simulation on V2V communication: https://github.com/VRI-UFPR/V2V-communication-dataset
-
+- Modelos 3D para Impressão: https://github.com/VRI-UFPR/models3d
 
 ## 9. Tutoriais
 
